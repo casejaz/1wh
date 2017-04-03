@@ -1,0 +1,8 @@
+Object:
+a collection of name-value pair
+
+execution context (global):
+wraps up the code written
+-global object
+-'this'
+-e.g. window object, global object
