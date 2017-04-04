@@ -1,0 +1,13 @@
+Object:
+a collection of name-value pair
+
+execution context (global):
+wraps up the code written
+-global object
+-'this'
+-e.g. window object, global object
+
+-setup memory space for variables and function "hoisting"
+-undefined never set the value (helps debugging)
+
+the scope chain
