@@ -36,3 +36,4 @@ var purchases = document.getElementById("purchases");   // Returns an object
 var shopping = document.getElementById("purchases");
 shopping.setAttribute("title", "a list of goods");
 console.log(shopping.getAttribute("title"));
+console.log(typeof False);
